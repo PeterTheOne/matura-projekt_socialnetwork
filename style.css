@@ -1,0 +1,143 @@
+/*
+Welcome to the stylesheet of Example-Socialnetwork-Website.com!
+*/
+
+body {
+	font-family: Verdana;
+	background-color: lightyellow;
+}
+
+/* ------------SIDEBAR------------ */
+#sidebar {
+	width: 180px;
+	margin-top: 130px;
+	margin-left: 10px;
+	padding: 5px;
+	padding-top: 0px;
+	
+	float: left;
+	border: 1px solid black;
+	background-color: lightblue;
+	
+	font-weight: bold;
+}
+#sidebar a {
+	text-decoration: none;
+}
+#sidebar h2 {
+	text-align: center;
+}
+
+/* ------------CONTENT------------ */
+#content {
+	border: 1px solid black;
+
+	min-width: 590px;
+	max-width: 800px;
+	width: 60%;
+	
+	margin-top: 10px;
+	margin-left: 10px;
+	
+	float:left;
+	background-color: lightgreen;
+}
+
+/* ------------HEADER------------ */
+#header {
+	border: 1px solid black;
+	height: 120px;
+	background-image: url(images/header_01.jpg);
+	background-repeat: no-repeat;
+
+}
+
+#header a{
+	text-decoration: none;
+}
+
+h1 {
+}
+
+#header .title {
+	background-color: lightblue;
+	color: blue;
+
+	font-style: italic;
+	text-align: center;
+	
+	width: 550px;
+	margin:0 auto;
+}
+
+#header .description {
+	background-color: lightblue;
+	color: blue;
+	font-style: italic;
+	text-align: center;
+	
+	width: 350px;
+	margin:0 auto;
+}
+
+/* ------------PAGE------------ */
+#page {
+	border: 1px solid black;
+	padding: 5px;
+	padding-top: 0px;
+	min-height: 400px;
+}
+
+/* ------------FOOTER------------ */
+#footer {
+	border: 1px solid black;
+	padding: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: small;
+	text-align: center;
+	background-color: lightblue;
+}
+#footer a img {
+	border-width: 0;
+}
+/* ------------ADS------------ */
+#ads{
+	border: 1px solid black;
+	width: 120px;
+	height: 600px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 130px;
+	background-color: lightblue;
+}
+#ads a img {
+	border-width: 0;
+}
+/* ------------LOGOUT------------ */
+#logout{
+	text-align:center;
+}
+/* ------------Profile_Comments------------ */
+table.profile_comments {
+	border-width: 1px 1px 1px 1px;
+	border-spacing: 2px;
+	border-style: solid solid solid solid;
+	border-color: gray gray gray gray;
+	border-collapse: separate;
+	width:500px;
+}
+table.profile_comments th {
+	border-width: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+	border-style: inset inset inset inset;
+	border-color: gray gray gray gray;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+table.profile_comments td {
+	border-width: 1px 1px 1px 1px;
+	padding: 1px 1px 1px 1px;
+	border-style: inset inset inset inset;
+	border-color: gray gray gray gray;
+	-moz-border-radius: 0px 0px 0px 0px;
+}

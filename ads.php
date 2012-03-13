@@ -1,0 +1,1 @@
+			<a rel="ad" href="http://www.brg-viktring-board.at"><img src="images/ad_brg.jpg" alt="BRG-AD" /></a>
