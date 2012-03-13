@@ -17,6 +17,10 @@ Created by:
 -----------
 - [Peter Grassberger (PeterTheOne)](http://petergrassberger.com)
 
+Mentor:
+-------
+- Mag. Wolfgang Schmidhofer
+
 Header Picture by:
 ------------------
 - [gonzalo_ar](http://www.flickr.com/photos/gonzalo_ar/)
